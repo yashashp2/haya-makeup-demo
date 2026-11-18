@@ -1,0 +1,16 @@
+{
+  "usage": "Licensed illustrative placeholders for an independent design demonstration. These photographs do not depict Haya's work or clients and do not imply endorsement.",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "verifiedOn": "2026-11-18",
+  "images": [
+    {"file":"hero.jpg","author":"Magaly Taboada","sourceUrl":"https://www.pexels.com/photo/elegant-bridal-portrait-with-pearls-and-accessories-33551436/","licenseUrl":"https://www.pexels.com/license/","description":"Editorial bridal portrait with pearls and a white dress; portrait orientation."},
+    {"file":"bridal.jpg","author":"AMA INTERNATIONAL ACADEMY","sourceUrl":"https://www.pexels.com/photo/elegant-bridal-portrait-with-glamorous-makeup-30452319/","licenseUrl":"https://www.pexels.com/license/","description":"Glamorous bride in lace with Hollywood waves against white."},
+    {"file":"glam.jpg","author":"Carlos GUTIERREZ","sourceUrl":"https://www.pexels.com/photo/elegant-portrait-of-woman-with-makeup-30509793/","licenseUrl":"https://www.pexels.com/license/","description":"Luminous makeup portrait against a pink background."},
+    {"file":"soft-glam.jpg","author":"Babek Subhani","sourceUrl":"https://www.pexels.com/photo/woman-in-wedding-dress-11841007/","licenseUrl":"https://www.pexels.com/license/","description":"Close-up bride with defined eye makeup and crystal hairband."},
+    {"file":"hair.jpg","author":"Nina Fiedler","sourceUrl":"https://www.pexels.com/photo/woman-with-updo-hairstyle-26110312/","licenseUrl":"https://www.pexels.com/license/","description":"Brunette bridal updo from behind, soft daylight."},
+    {"file":"bridal-veil.jpg","author":"Habib Hosseini","sourceUrl":"https://www.pexels.com/photo/woman-in-white-wedding-dress-3650425/","licenseUrl":"https://www.pexels.com/license/","description":"Smiling bride beneath an airy pearl veil."},
+    {"file":"hero-wide.jpg","author":"Deffo Manizo","sourceUrl":"https://www.pexels.com/photo/a-bride-smiling-17350752/","licenseUrl":"https://www.pexels.com/license/","description":"Landscape close-up bridal portrait with red lipstick."},
+    {"file":"hero-landscape.jpg","author":"Shantanu Kumar","sourceUrl":"https://www.pexels.com/photo/face-of-bride-18478116/","licenseUrl":"https://www.pexels.com/license/","description":"Landscape editorial bridal face with colourful eyeshadow."}
+  ]
+}
